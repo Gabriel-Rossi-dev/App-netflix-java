@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Netflix</string>
+    <string name="menu_chat">Menu chat</string>
+    <string name="menu_volume">Menu Volume</string>
+    <string name="menu_favorite">Menu Favorite</string>
+    <string name="menu_episodes">Menu Episodes</string>
+    <string name="play_video">Play video</string>
+    <string name="current_timer">Current Timer</string>
+    <string name="backup_timer" />
+    <string name="play_timer">Play Timer</string>
+    <string name="pause_timer">Pause Timer</string>
+</resources>
